@@ -1,12 +1,12 @@
 # 💬 BeyondChats Frontend Assignment — Intercom Clone
 
-This project is a **React-based** UI clone inspired by Intercom's AI-powered chat panel. Built as part of the BeyondChats frontend internship assignment, it focuses on replicating the UI/UX, animations, responsiveness, and suggested AI interactions shown in the provided demo.
+This project is a **React-based** UI clone inspired by Intercom's AI-powered chat panel. Built as part of the BeyondChats frontend internship assignment, it focuses on replicating the UI/UX, animations, responsiveness shown in the provided demo.
 
 ---
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the deployed project](https://your-deployed-link.com)
+🌐 [Click here to view the deployed project](https://intercommclone.netlify.app/)
 
 ---
 
