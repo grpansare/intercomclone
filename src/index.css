@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #e9d5ff 25%, #f3e8ff 50%, #e9d5ff 75%);
+  background-size: 800px 104px;
+  animation: shimmer 1.5s infinite;
+}
