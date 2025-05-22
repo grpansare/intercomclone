@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 
 
-export default function CustomerServiceChat() {
+export default function Inbox() {
   const [message, setMessage] = useState('');
   const [showInbox, setShowInbox] = useState(false);
   const [showAIPanel, setShowAIPanel] = useState(false);
